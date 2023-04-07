@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.PetSwaggger.SwaggetPetApiTesting" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-06T07:39:34" hostname="DESKTOP-1AIO5K2" time="2.537">
+  <properties/>
+  <testcase name="updatePetInTheStoreWithFormData" classname="com.PetSwaggger.SwaggetPetApiTesting" time="2.537"/>
+  <system-out><![CDATA[{
+    "id": 101,
+    "category": {
+        "id": 0,
+        "name": "sheru"
+    },
+    "name": "doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "sheru"
+        }
+    ],
+    "status": "unavailable"
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
